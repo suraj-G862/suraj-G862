@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a Full-Stack developer based in Pune, India, currently pursuing CSE from Indian Institute of Technology. Solving problems and learning new things is what I love to do. I build Websites using specified in MERN Stack but not limited to it. 
 
+Checkout my portfolio: [suraj-gaikwad.netlify.app](https://suraj-gaikwad.netlify.app/)
 <!--
 **suraj-G862/suraj-G862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
